@@ -1,4 +1,4 @@
-![logo](https://github.com/Akshay-Pawar-3/Akshay-Pawar-3/blob/55e58efb316cb15e768169477ca0567e9f4c1072/Akshay-Pawar.png)
+![logo](https://github.com/Akshay-Pawar-3/Akshay-Pawar-3/blob/Akshay-Pawar.png)
 <h1 align="center">Hi 👋, I'm Akshay Pawar</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
