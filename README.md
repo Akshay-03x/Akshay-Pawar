@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshaypawar03x" target="blank"><img src="https://img.shields.io/twitter/follow/akshaypawar03x?logo=twitter&style=for-the-badge" alt="akshaypawar03x" /></a> </p>
 
-- 🔭 I’m currently working on [transportation software systems](RadheStudios.in)
+- 🔭 I’m currently working on Transportation Software Systems
 
 - 🌱 I’m currently learning **Node.Js , Express.Js**
 
