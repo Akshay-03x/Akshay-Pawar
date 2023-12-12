@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Pawar</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">React Js Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/akshaypawar03x" target="blank"><img src="https://img.shields.io/twitter/follow/akshaypawar03x?logo=twitter&style=for-the-badge" alt="akshaypawar03x" /></a> </p>
 
