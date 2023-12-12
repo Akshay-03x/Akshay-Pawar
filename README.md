@@ -1,4 +1,4 @@
-![logo]
+![logo](Akshay-Pawar.png)
 <h1 align="center">Hi 👋, I'm Akshay Pawar</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
