@@ -1,4 +1,3 @@
-![logo](https://github.com/Akshay-Pawar-3/Akshay-Pawar-3/blob/586c8ea4965f7a189bc9004dfbffec5f0b2d1f0c/Banner.png)
 <h1 align="center">Hi 👋, I'm Akshay Pawar</h1>
 <h3 align="center">React.js Developer</h3>
 
